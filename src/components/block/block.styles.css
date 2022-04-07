@@ -1,0 +1,11 @@
+.block {
+    border: solid 1px #000;
+    width: 200px;
+    height: 200px;
+    margin: 30%;
+  }
+  
+  .block-character {
+    font-size: 150px;
+    text-align: center;
+  }
